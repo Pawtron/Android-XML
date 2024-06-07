@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pawtron_XML</string>
+
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_orders">Orders</string>
+    <string name="title_chat">Chat</string>
+    <string name="title_profile">Profile</string>
+</resources>
