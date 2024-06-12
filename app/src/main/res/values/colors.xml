@@ -7,4 +7,16 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    
+    <color name="midnight_gray">#666666</color>
+    <color name="dark_charcoal">#333333</color>
+    <color name="deep_black">#1C1C1C</color>
+
+    <color name="cream">#E8DFAF</color>
+    <color name="antique_gold">#C9AB53</color>
+    <color name="warm_gold">#B59410</color>
+
+    <color name="periwinkle">#8597C1</color>
+    <color name="dark_royal_blue">#344185</color>
+    <color name="deep_navy_blue">#02036D </color>
 </resources>

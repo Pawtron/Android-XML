@@ -5,4 +5,22 @@
     <string name="title_orders">Orders</string>
     <string name="title_chat">Chat</string>
     <string name="title_profile">Profile</string>
+
+    <string name="feature_doctor">Layanan Dokter</string>
+    <string name="feature_vaccine">Vaksinasi</string>
+    <string name="feature_adopt">Pusat Adopsi</string>
+    <string name="feature_petcare">Penitipan &amp; Perwatan</string>
+    <string name="feature_shop">PetShop</string>
+
+    <string name="doc_recommend">Rekomendasi Dokter</string>
+    <string name="others">Lainnya</string>
+    <string name="string_format_1">%S | %S</string>
+    <string name="title_feature">Fitur</string>
+    <string name="hi_user">Hi %S</string>
+
+    <string-array name="greetings">
+        <item>Bagaimana kabar sobat kecilmu saat ini?</item>
+        <item>Apakah semua sedang baik-baik saja?</item>
+        <item>Bagaimana keadaan sobat kecilmu saat ini? Apakah sehat?</item>
+    </string-array>
 </resources>

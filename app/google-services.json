@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "335071768087",
+    "project_id": "pawtron-201d4",
+    "storage_bucket": "pawtron-201d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335071768087:android:a64cf5870c915d69baf652",
+        "android_client_info": {
+          "package_name": "com.example.pawtron_xml"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzRHJdvNa4XYsYxFjpwb5G6Fgo-Ii6_PM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
