@@ -6,12 +6,12 @@ plugins {
 
 android {
     namespace = "com.example.pawtron_xml"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.example.pawtron_xml"
         minSdk = 26
-        targetSdk = 34
+        targetSdk = 35
         versionCode = 1
         versionName = "1.0"
 
@@ -53,6 +53,8 @@ dependencies {
     implementation(libs.androidx.fragment.ktx)
     implementation(libs.firebase.auth)
     implementation(libs.firebase.firestore)
+    implementation(libs.androidx.annotation)
+    implementation(libs.androidx.activity)
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)

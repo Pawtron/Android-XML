@@ -5,7 +5,6 @@ import com.google.android.material.bottomnavigation.BottomNavigationView
 import androidx.appcompat.app.AppCompatActivity
 import androidx.navigation.findNavController
 import androidx.navigation.ui.AppBarConfiguration
-import androidx.navigation.ui.setupActionBarWithNavController
 import androidx.navigation.ui.setupWithNavController
 import com.example.pawtron_xml.databinding.ActivityMainBinding
 
@@ -16,7 +15,6 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
-        actionBar?.hide()
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
@@ -30,7 +28,8 @@ class MainActivity : AppCompatActivity() {
                 R.id.navigation_dashboard, R.id.navigation_orderlist, R.id.navigation_chatlist, R.id.navigation_profile
             )
         )
-        setupActionBarWithNavController(navController, appBarConfiguration)
+//        setupActionBarWithNavController(navController, appBarConfiguration)
         navView.setupWithNavController(navController)
+
     }
 }

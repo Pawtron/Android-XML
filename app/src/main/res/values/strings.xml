@@ -1,6 +1,9 @@
 <resources>
     <string name="app_name">Pawtron_XML</string>
 
+    <string name="string_format_1">%S | %S</string>
+    <string name="hi_user">Hi %S</string>
+
     <string name="title_dashboard">Dashboard</string>
     <string name="title_orders">Orders</string>
     <string name="title_chat">Chat</string>
@@ -14,13 +17,22 @@
 
     <string name="doc_recommend">Rekomendasi Dokter</string>
     <string name="others">Lainnya</string>
-    <string name="string_format_1">%S | %S</string>
-    <string name="title_feature">Fitur</string>
-    <string name="hi_user">Hi %S</string>
+    <string name="subtitle_feature">Fitur</string>
+
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="password_re">Ulangi Password</string>
+    <string name="forgot_pass"><u>Lupa Password ?</u></string>
+    <string name="sign_up_now"><u>Sign Up !</u></string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in_google">Sign In with Google</string>
+    <string name="sign_up_google">Sign Up with Google</string>
 
     <string-array name="greetings">
         <item>Bagaimana kabar sobat kecilmu saat ini?</item>
         <item>Apakah semua sedang baik-baik saja?</item>
         <item>Bagaimana keadaan sobat kecilmu saat ini? Apakah sehat?</item>
     </string-array>
+
 </resources>
